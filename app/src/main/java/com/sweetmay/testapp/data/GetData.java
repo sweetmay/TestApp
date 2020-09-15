@@ -2,7 +2,7 @@ package com.sweetmay.testapp.data;
 
 import android.os.Handler;
 
-import com.sweetmay.testapp.DataRequest;
+import com.sweetmay.testapp.data.DataRequest;
 
 import java.io.IOException;
 

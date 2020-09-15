@@ -1,5 +1,5 @@
 
-package com.sweetmay.testapp;
+package com.sweetmay.testapp.data;
 
 import java.util.List;
 import com.google.gson.annotations.Expose;
